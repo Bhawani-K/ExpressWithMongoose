@@ -1,0 +1,27 @@
+{
+  "name": "expresswithmongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhawani-K/ExpressWithMongoose.git"
+  },
+  "author": "Bhawani_K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhawani-K/ExpressWithMongoose/issues"
+  },
+  "homepage": "https://github.com/Bhawani-K/ExpressWithMongoose#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
